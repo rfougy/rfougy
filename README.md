@@ -19,7 +19,7 @@ I am also the founder of [ARCHIVE.pdf](https://www.archivepdf.net/), a platform 
 ### 👨‍💻 &nbsp; What I'm Currently Doing: 
 
 - Pursuing a career in front-end development
-- Developing ARCHIVE.pdf's Progressive Web App and Fashion Wiki
+- Developing ARCHIVE.pdf's Progressive Web App
 - Exploring a new hobby in ergonomic split keyboards, check out the inspo [here](https://youtu.be/UKfeJrRIcxw)!
 
 ---
