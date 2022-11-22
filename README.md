@@ -18,9 +18,9 @@ I am also the founder of [ARCHIVE.pdf](https://www.archivepdf.net/), a platform 
 
 ### 👨‍💻 &nbsp; What I'm Currently Doing: 
 
-- Pursuing a career in front-end development
-- Developing ARCHIVE.pdf's Progressive Web App
-- Exploring a new hobby in ergonomic split keyboards, check out the inspo [here](https://youtu.be/UKfeJrRIcxw)!
+- Leading on [ARCHIVE.pdf's](https://www.archivepdf.net/) Progressive Web App
+- Working for [Aimly](https://www.goaimly.com/) as a Front-end Engineer from the ground floor
+- Creating [riv.systems](https://github.com/rfougy/riv.systems), a portfolio/blog hybrid web app.
 
 ---
 
