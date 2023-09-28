@@ -11,7 +11,7 @@
   
 ### 🙋‍♂️ &nbsp; About Me :
 
-I am a Front-end Software Engineer with a passion for user experience and design.
+I am a Fullstack Software Engineer with a passion for user experience and design.
 I am also the founder of [ARCHIVE.pdf](https://www.archivepdf.net/), a platform dedicated to sharing Archive Fashion with the world.
 
 ---
