@@ -19,7 +19,6 @@ I am also the founder of [ARCHIVE.pdf](https://www.archivepdf.net/), a platform 
 ### 👨‍💻 &nbsp; What I'm Currently Doing: 
 
 - Leading on [ARCHIVE.pdf's](https://www.archivepdf.net/) Progressive Web App
-- Working for [Aimly](https://www.goaimly.com/) as a Front-end Engineer from the ground floor
 - Creating [riv.systems](https://riv.systems/), a portfolio/blog hybrid Progressive Web App.
 
 ---
