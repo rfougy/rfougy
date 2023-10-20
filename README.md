@@ -19,7 +19,7 @@ I am also the founder of [ARCHIVE.pdf](https://www.archivepdf.net/), a platform 
 ### 👨‍💻 &nbsp; What I'm Currently Doing: 
 
 - Leading on [ARCHIVE.pdf's](https://www.archivepdf.net/) Progressive Web App
-- Building [Display Dots Anime](https://github.com/rfougy/display-dots-anime/), a React animation library for the Display Dots typeface.
+- Building [Display Dots Anime](https://display-dots-anime.vercel.app/), a React animation library for the Display Dots typeface.
 - Creating [riv.systems](https://riv.systems/), a portfolio/blog hybrid Progressive Web App.
 
 ---
