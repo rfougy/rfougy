@@ -12,15 +12,7 @@
 ### 🙋‍♂️ &nbsp; About Me :
 
 I am a Fullstack Software Engineer with a passion for user experience and design.
-I am also the founder of [ARCHIVE.pdf](https://www.archivepdf.net/), a platform dedicated to sharing Archive Fashion with the world.
-
----
-
-### 👨‍💻 &nbsp; What I'm Currently Doing: 
-
-- Leading on [ARCHIVE.pdf's](https://www.archivepdf.net/) Progressive Web App
-- Building [Display Dots Anime](https://display-dots-anime.vercel.app/), a React animation library for the Display Dots typeface.
-- Creating [riv.systems](https://riv.systems/), a portfolio/blog hybrid Progressive Web App.
+I am also the founder and tech lead of [ARCHIVE.pdf](https://beta.archivepdf.net/), a platform dedicated to sharing Archive Fashion with the world.
 
 ---
 
