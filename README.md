@@ -12,7 +12,7 @@
 ### 🙋‍♂️ &nbsp; About Me :
 
 I am a Fullstack Software Engineer with a passion for user experience and design.
-I am also the founder and tech lead of [ARCHIVE.pdf](https://beta.archivepdf.net/), a platform dedicated to sharing Archive Fashion with the world.
+I am also the founder and Engineering Manager of [ARCHIVE.pdf](https://beta.archivepdf.net/), a platform dedicated to sharing Archive Fashion with the world.
 
 ---
 
